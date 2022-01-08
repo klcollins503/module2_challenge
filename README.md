@@ -14,3 +14,8 @@ SUMMARY:
 
 Since the code has been refactored it makes the run time faster which will allow for futher stock analysis of much larger datasets. For the This code can now be more easily adapted ot larger datasets and the performance can be measured with the built-in timer.
 
+Pros and Cons of Refactoring:
+
+The pros of refactoring is that in general it will make the code more readable and less reduntant. It would be easier for another analyst to read if it was one line of code instead of multiple lines that have multiple steps to perform the same task.
+
+One con of refactoring might be that spending time refactoring codes doesn't change the functionality of the code. Another potential con would be that depending on the level of knowledge of the analyst who might use the code, more logical steps might be easier for someone to understand the purpose of the code.  
